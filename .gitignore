@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+*.ipynb-checkpoints
+
+# Data files (as referenced in your notebook)
+# It's good practice to not commit large datasets.
+# You can provide a link to the dataset in your README.md.
+Dataset-SA.csv
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
